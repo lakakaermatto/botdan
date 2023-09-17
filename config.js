@@ -8,19 +8,15 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['393312171655', '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓', true],
-  ['377607935810'],
-  ['393756447945'],
-  //['393312171655'],	
-  ['393312171655']
+  ['393515965355', 'danbot', true],
 ] 
 
 global.suittag = ['393312171655'] 
 global.prems = ['393312171655'] 
 
-global.packname = '𝐄ИΞM𝕀Ξ𝐒'
-global.author = '𝐁Ꮻ𝐓'
-global.wm = '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓'
+global.packname = 'ḋᾄᾗ вὄҭ'
+global.author = 'botti'
+global.wm = 'ḋᾄᾗ вὄҭ'
 global.igfg = '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓'
 global.wait = 'ok'
 
@@ -423,8 +419,8 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `𝐄ИΞM𝕀Ξ𝐒 🛡️⃟🏴‍☠️ 𝐁Ꮻ𝐓`
-global.gt = '𝐁Ꮻ𝐓'
+global.wm2 = `ḋᾄᾗ вὄҭ`
+global.gt = 'вὄҭ'
 global.mysticbot = '𝐁Ꮻ𝐓'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
