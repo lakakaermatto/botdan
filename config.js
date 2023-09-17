@@ -11,13 +11,13 @@ global.owner = [
   ['393515965355', 'danbot', true],
 ] 
 
-global.suittag = ['393312171655'] 
-global.prems = ['393312171655'] 
+global.suittag = ['393515965355'] 
+global.prems = ['393515965355'] 
 
 global.packname = 'ḋᾄᾗ вὄҭ'
 global.author = 'botti'
 global.wm = 'ḋᾄᾗ вὄҭ'
-global.igfg = '𝐄ИΞM𝕀Ξ𝐒 𝐁Ꮻ𝐓'
+global.igfg = 'ḋᾄ 𝐁Ꮻ𝐓'
 global.wait = 'ok'
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
